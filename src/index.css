@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  background-color: #0a0908; /* Matches royal-900 */
+}
+
+body {
+  @apply text-gray-300;
+}
+
+/* Custom Selection Color */
+::selection {
+  background-color: #D4AF37;
+  color: #0a0908;
+}
