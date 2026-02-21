@@ -9,7 +9,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Products from './pages/Products';
 import Contact from './pages/Contact';
-import WhatsAppWidget from './components/WhatsappWidget';
+import WhatsAppWidget from './components/WhatsAppWidget';
 import Wholesale from './pages/Wholesale';
 
 function App() {
